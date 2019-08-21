@@ -1,0 +1,19 @@
+{
+  "name": "equeoCheckLowPowerMode",
+  "version": "1.0.0",
+  "description": "A simple plugin to check if device is in low power mode",
+  "cordova": {
+    "id": "cordova-plugin-equeo-checkLowPowerMode",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Nils Ollrogge",
+  "license": "MIT"
+}
